@@ -1,0 +1,10 @@
+Deskripsi AOL:
+Aplikasi To-Do List sederhana untuk membantu manajemen tugas harian.
+
+Fitur:
+- Tambah tugas
+- Hapus tugas
+- Tandai tugas selesai
+
+Team member:
+- Nama kamu sendiri
