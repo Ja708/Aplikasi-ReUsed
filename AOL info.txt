@@ -1,10 +1,50 @@
-Deskripsi AOL:
-Aplikasi To-Do List sederhana untuk membantu manajemen tugas harian.
+1. Deskripsi AOL:
+  Dalam era digital saat ini, konsumsi barang semakin meningkat, yang berujung pada peningkatan limbah dan barang tidak terpakai. Banyak orang memiliki barang yang masih layak digunakan tetapi tidak lagi dibutuhkan. Di sisi lain, ada banyak orang yang mencari barang dengan harga lebih terjangkau. Sayangnya, proses jual-beli barang bekas sering kali tidak efisien, baik karena kurangnya platform yang aman, sulitnya menemukan pembeli, atau terbatasnya informasi tentang kondisi barang.
 
-Fitur:
-- Tambah tugas
-- Hapus tugas
-- Tandai tugas selesai
+  Dengan meningkatnya kesadaran masyarakat terhadap ekonomi sirkular dan keberlanjutan, muncul kebutuhan akan platform yang dapat menghubungkan penjual dan pembeli barang bekas secara mudah, aman, dan terpercaya.
 
-Team member:
-- Nama kamu sendiri
+  ReUsed adalah platform jual-beli barang bekas yang dirancang untuk mendukung ekonomi sirkular dan mendorong keberlanjutan. Aplikasi ini hadir untuk mempertemukan penjual dan pembeli dalam satu sistem yang praktis, aman, dan terpercaya.
+
+Fitur Utama:
+A. Listing Barang Bekas: Pengguna dapat mengunggah foto dan deskripsi barang bekas dengan mudah.
+
+B. Kategori & Filter: Barang dikategorikan agar pembeli bisa menemukan produk sesuai kebutuhan (elektronik, pakaian, perabot, dll).
+
+C. Negosiasi Harga: Tersedia fitur bid antara penjual dan pembeli untuk proses tawar-menawar.
+
+D. Verifikasi Penjual: Penjual dapat diverifikasi berdasarkan rating dan ulasan untuk meningkatkan kepercayaan.
+
+E. Pembayaran Aman: Transaksi dilakukan melalui aplikasi dengan sistem escrow untuk keamanan kedua belah pihak.
+
+F. Layanan Pengiriman: Terintegrasi dengan jasa pengiriman untuk memudahkan transaksi tanpa tatap muka.
+
+
+2. Fitur:
+A. Buyer:
+-Delivery
+-Payment
+-Wishlist
+-Product Transaction
+-Listing Product
+
+B. Seller:
+-Listing Product
+-Product Transaction
+
+C. Admin:
+-Delivery
+-Product Display
+-Listing Product
+-Payment
+
+D. Role:
+-Role
+-Login & Register
+
+
+3. Team member Group 3:
+-Andrew
+-Hengky Arifin
+-Justien Venerdi
+-Kennard Elia Zakaria
+-Vincent
